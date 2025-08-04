@@ -101,5 +101,3 @@ This Arduino-based project monitors ambient temperature using a TMP36 sensor and
   - `Servo.h`
 
 ---
-
->  *Feel free to modify the components or thresholds to better suit your needs!*
