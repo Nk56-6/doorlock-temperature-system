@@ -79,7 +79,7 @@ This project monitors temperature using a TMP36 sensor and displays it on a 128x
 - ![Project Setup](1000003077.jpg)
 - ![Project Setup](1000003078.jpg)
 - ![Project Setup](1000003082.jpg)
-- ![Project Setup](images/project-setup.jpg)
+- ![Project Setup](20250804_093534.jpg)
 - ![Project Setup](20250804_113549.jpg)
 
 ---
