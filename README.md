@@ -23,8 +23,8 @@ This project monitors temperature using a TMP36 sensor and displays it on a 128x
 ## Installation & Setup
 
 1. **Connect Power to the Bread Board**
-        - 5V → Bread Board positive strip (+)
-        - GND → Bread Board negative strip (-)
+   - 5V → Bread Board positive strip (+)
+   - GND → Bread Board negative strip (-)
 
 2. **Connect the TMP36 Temperature Sensor**  
    - VCC → 5V  
